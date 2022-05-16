@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![Safety First](img/Safety-First.png)
 
 
