@@ -12,7 +12,7 @@
 ---
 
 ```
-Usage: stronghold.py [OPTIONS]
+Usage: Safety First [OPTIONS]
 
   Securely configure your Password.
   Developed by Rhys Ward -> (Github: Rhys-ward)
