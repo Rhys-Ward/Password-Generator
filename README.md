@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Safety First](img/Safety-First.png)
 
 
@@ -31,3 +32,6 @@ Options:
 
 
 
+=======
+# Password-Generator
+>>>>>>> 8a3fdd6ae48a2ffac1c2efd1c8baabd48b142350
